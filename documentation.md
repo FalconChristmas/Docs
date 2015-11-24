@@ -6,10 +6,17 @@
     - [Upgrade Guide](/docs/{{version}}/upgrade)
     - [Contribution Guide](/docs/{{version}}/contributions)
 - Getting Started
+    - [Supported Platforms](/docs/{{version}}/supported-platforms)
     - [Requirements](/docs/{{version}}/requirements)
     - [Installation](/docs/{{version}}/installation)
+    - [General Settings](/docs/{{version}}/general-settings)
     - [Network Setup](/docs/{{version}}/network)
     - [Channel Outputs](/docs/{{version}}/channel-outputs)
+    - [Playlists](/docs/{{version}}/playlists)
+    - [Scheduler](/docs/{{version}}/scheduler)
+    - [Events](/docs/{{version}}/events)
+    - [Effects](/docs/{{version}}/effects)
+    - [Multisync](/docs/{{version}}/multisync)
 - Tutorials & FAQ
     - [FAQ](/docs/{{version}}/faq)
     - [Beginner Guide](/docs/{{version}}/beginner-guide)
