@@ -10,6 +10,7 @@
     - [Requirements](/docs/{{version}}/requirements)
     - [Installation](/docs/{{version}}/installation)
     - [General Settings](/docs/{{version}}/general-settings)
+    - [Player Modes](/docs/{{version}}/player-modes)
     - [Network Setup](/docs/{{version}}/network)
     - [Channel Outputs](/docs/{{version}}/channel-outputs)
     - [Playlists](/docs/{{version}}/playlists)
